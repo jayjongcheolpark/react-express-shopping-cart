@@ -4,3 +4,5 @@ node_modules
 .DS_Store
 # this will be for the react stuff. I'll explain it later.
 client/build
+package-lock.json
+
